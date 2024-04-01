@@ -89,3 +89,4 @@ temp.diff
 **/*/src/.umi-production
 **/*/src/.umi-test
 **/*/.env.local
+ava
